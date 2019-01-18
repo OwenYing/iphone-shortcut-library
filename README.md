@@ -48,6 +48,15 @@
 3. **Live Photo转GIF**(Burst Photo to GIF) [source](https://www.reddit.com/r/shortcuts/comments/9nucwv/download_a_lot_of_shortcuts_here/)：
 * https://www.icloud.com/shortcuts/2bc76ebbe77648e8a192a07e65b5b5d9
 
+4. **清空剪贴板**(Clear Clipboard) [source](https://www.reddit.com/r/shortcuts/comments/9nucwv/download_a_lot_of_shortcuts_here/)：
+* https://www.icloud.com/shortcuts/b154e4ef774e44fdae09524cd982cf26
+
+5. **剪贴板修改器**(Clipboard Modifier) [source](https://www.reddit.com/r/shortcuts/comments/9nucwv/download_a_lot_of_shortcuts_here/)：
+* https://www.icloud.com/shortcuts/fbb63fd191874d369b5b38fc089a97d7
+
+6. **180度旋转网页**(Flip Website 180°) [source](https://www.reddit.com/r/shortcuts/comments/9nucwv/download_a_lot_of_shortcuts_here/)：
+* https://www.icloud.com/shortcuts/00e74296e3d74b03a1319833969ec694
+
 ### 交通-Trafic
 ### 娱乐-Entertainment
 1. **心情电池**(Mood Battery) [source](https://www.reddit.com/comments/9vjal1/)：
