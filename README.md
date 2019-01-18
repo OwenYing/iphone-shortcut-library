@@ -29,6 +29,8 @@
 2. **午觉倒计时**(Noon snap Timer) [source](https://owenying.github.io)：
 * https://www.icloud.com/shortcuts/4953406297c84be79a36c1d39206cc23
 
+3. **生日提醒**(Birthdays) [source](https://www.reddit.com/r/shortcuts/comments/9nucwv/download_a_lot_of_shortcuts_here/)：
+* https://www.icloud.com/shortcuts/47b24ac86c5a48249990e298436a5ec4
 
 ### 学习-Study
 1. **Leetcode计时器**(Leetcode Timer) [source](https://owenying.github.io)：
@@ -42,6 +44,9 @@
 
 2. **网页视频下载器**(Video Downloader) [source](https://www.reddit.com/comments/9i2517/)：
 * https://www.icloud.com/shortcuts/939a092d1d9e48e19cf84cd5f4479c1d
+
+3. **Live Photo转GIF**(Burst Photo to GIF) [source](https://www.reddit.com/r/shortcuts/comments/9nucwv/download_a_lot_of_shortcuts_here/)：
+* https://www.icloud.com/shortcuts/2bc76ebbe77648e8a192a07e65b5b5d9
 
 ### 交通-Trafic
 ### 娱乐-Entertainment
