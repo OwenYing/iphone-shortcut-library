@@ -57,6 +57,21 @@
 6. **180度旋转网页**(Flip Website 180°) [source](https://www.reddit.com/r/shortcuts/comments/9nucwv/download_a_lot_of_shortcuts_here/)：
 * https://www.icloud.com/shortcuts/00e74296e3d74b03a1319833969ec694
 
+7. **剪裁图片**(Image Cropper) [source](https://www.reddit.com/r/shortcuts/comments/9nucwv/download_a_lot_of_shortcuts_here/)：
+* https://www.icloud.com/shortcuts/d2ae87b7219b4735a3a81d4f811e5f14
+
+8. **改变图片大小**(Image Resizer) [source](https://www.reddit.com/r/shortcuts/comments/9nucwv/download_a_lot_of_shortcuts_here/)：
+* https://www.icloud.com/shortcuts/a62a1ce3fbee42c39da385c0eb93a214
+
+9. **密码生成器**(Password Generator) [source](https://www.reddit.com/r/shortcuts/comments/9nucwv/download_a_lot_of_shortcuts_here/)：
+* https://www.icloud.com/shortcuts/70e229993a4b4ca686da7f5d5da52a24
+
+10. **多图转GIF**(Photos > GIF) [source](https://www.reddit.com/r/shortcuts/comments/9nucwv/download_a_lot_of_shortcuts_here/)：
+* https://www.icloud.com/shortcuts/f13861cf39ac437c9d0dbaa8b686c87c
+
+11. **二维码生成**(QR Everything) [source](https://www.reddit.com/r/shortcuts/comments/9nucwv/download_a_lot_of_shortcuts_here/)：
+* https://www.icloud.com/shortcuts/94aee79b225c461abbc081f315d85eb5
+
 ### 交通-Trafic
 ### 娱乐-Entertainment
 1. **心情电池**(Mood Battery) [source](https://www.reddit.com/comments/9vjal1/)：
