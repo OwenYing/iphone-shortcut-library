@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../resources/AppleShortcut.png" width="225px"/>
+  <img src="./resources/AppleShortcut.png" width="225px"/>
 </p>
 
 # Iphone Shortcut Library -- Iphone 捷径库
