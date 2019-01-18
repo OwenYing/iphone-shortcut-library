@@ -128,8 +128,13 @@
 * https://www.icloud.com/shortcuts/0ec8fb4002294b159c7a4505b58d53be
 
 ## 示例 -- Examples
+**用iphone手机的safari浏览器打开 -- Open with Iphone Safari**
 
 <img src="./resources/example.gif" />
+
+**用电脑打开 -- Open with Computers**
+
+<img src="./resources/desktop_example.gif" />
 
 ## 如何贡献本仓库 -- Contributing
 非常欢迎大家分享自己的```捷径```，可将```分享链接+作者```发送到邮箱```ytc@vt.edu```， 或者```Fork```本仓库。
