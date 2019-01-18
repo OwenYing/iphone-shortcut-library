@@ -23,7 +23,17 @@
 
 ## 捷径库 -- Shortcut Library
 ### 生活-Life
+1. **睡觉勿扰+闹钟**(Sleep) [source](https://owenying.github.io)：
+* https://www.icloud.com/shortcuts/ee5292fee3da4f5aaa9e75d41503a34f
+
+2. **午觉倒计时**(Noon snap Timer) [source](https://owenying.github.io)：
+* https://www.icloud.com/shortcuts/4953406297c84be79a36c1d39206cc23
+
+
 ### 学习-Study
+2. **Leetcode计时器**(Leetcode Timer) [source](https://owenying.github.io)：
+* https://www.icloud.com/shortcuts/b50099d358684f35a7c712b9669d8873
+
 ### 效率-Efficiency
 ### 健身-Health
 ### 工具-Tools
