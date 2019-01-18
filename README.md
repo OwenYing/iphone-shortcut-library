@@ -22,7 +22,13 @@
 
 
 ## 捷径库 -- Shortcut Library
-
+### 生活-Life
+### 学习-Study
+### 效率-Efficiency
+### 健身-Health
+### 工具-Tools
+### 交通-Trafic
+### 娱乐-Entertainment
 
 ## 示例 -- Examples
 
