@@ -129,7 +129,7 @@
 
 ## 示例 -- Examples
 
-<img src="./resources/editor-preview.gif" />
+<img src="./resources/example.gif" />
 
 ## 如何贡献本仓库 -- Contributing
 非常欢迎大家分享自己的```捷径```，可将```分享链接+作者```发送到邮箱```ytc@vt.edu```， 或者```Fork```本仓库。
