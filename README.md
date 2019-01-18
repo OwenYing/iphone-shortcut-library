@@ -2,10 +2,10 @@
   <img src="./resources/AppleShortcut.png" width="225px"/>
 </p>
 
-| 捷径 | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
+| 生活-Life[#生活-Life] | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
 
-# Iphone 捷径库 -- Iphone Shortcut Library
+# Iphone 捷径库 -- Iphone Shortcut Library. 🔥持续更新中🔥
 这是Iphone捷径库，由Apple的 “捷径” app 支持，目的在于收集最好用的捷径脚本，提高生活生产效率。
 
 (This is an Iphone shortcut Library supported by Apple's ```Shortcut``` App, which gathers the best shortcuts for iphone.)
