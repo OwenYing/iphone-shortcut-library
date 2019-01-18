@@ -7,19 +7,14 @@ This is an Iphone shortcut Library supported by Apple's ```Shortcut``` App, whic
 
 这是Iphone捷径库，由Apple的 “捷径” app 支持，目的在于收集最好用的捷径脚本，提高生活生产效率。
 
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-- Much more...
-
 ## Installation
-1. Copy the shortcut's link.[复制捷径链接]
+1. Download ```shortcut``` app in Apple Store.[在Apple应用商店下载 捷径 APP]
 
-2. Open the link with ```safari``` on Iphone.[在Iphone的Safari中打开]
+2. Copy the shortcut's link in this Library.[复制捷径库中的捷径链接]
 
-3. Get the shortcut.[点击“获取捷径”]
+3. Open the link with ```safari``` on Iphone.[在Iphone的Safari中打开]
+
+4. Get the shortcut.[点击“获取捷径”]
 
 ## Preview
 
@@ -35,5 +30,6 @@ We are welcome to any kind of feedback and contributions.  Please ```Fork``` and
 
 
 ## Built with amazing technologies
-[BloomRPC](https://github.com/uw-labs/bloomrpc/blob/master/README.md)
+[Apple](https://www.apple.com)
 
+[Apple Shortcut](https://support.apple.com/guide/shortcuts/welcome/ios)
