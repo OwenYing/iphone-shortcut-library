@@ -32,7 +32,7 @@
 
 
 ## 捷径库 -- Shortcut Library
-### 生活-Life
+### 🏠生活-Life
 1. **睡觉勿扰+闹钟**(Sleep) [source](https://owenying.github.io)：
 * https://www.icloud.com/shortcuts/ee5292fee3da4f5aaa9e75d41503a34f
 
@@ -60,19 +60,19 @@
 9. **天数倒计时**(Days Until) [source](https://www.reddit.com/r/shortcuts/comments/9mt64i/would_anyone_like_any_of_my_shortcuts/)：
 * https://www.icloud.com/shortcuts/23f9dd645cba4f828c0df178f12a4af9
 
-### 学习-Study
+### 📖学习-Study
 1. **Leetcode计时器**(Leetcode Timer) [source](https://owenying.github.io)：
 * https://www.icloud.com/shortcuts/b50099d358684f35a7c712b9669d8873
 
-### 效率-Efficiency
+### 🌲效率-Efficiency
 1. **Wifi蓝牙开关**(Wi-Fi and Bluetooth Toggle) [source](https://www.reddit.com/r/shortcuts/comments/9hb7ey/heres_a_list_of_all_my_shortcuts_so_far_the_ones/)：
 * https://www.icloud.com/shortcuts/6112b7815fad40288342fdc4a30e9bc3
 
-### 健身-Health
+### 🏈健身-Health
 1. **每日健身报告生成器**(Activity Report) [source](https://www.reddit.com/r/shortcuts/comments/9hb7ey/heres_a_list_of_all_my_shortcuts_so_far_the_ones/)：
 *https://www.icloud.com/shortcuts/5437ade3610049dbb4ed7c284ce04148
 
-### 工具-Tools
+### 🔧工具-Tools
 1. **保存网站中的所有图片**(Save all images of a webpage) [source](https://www.reddit.com/comments/9sh2jt/)：
 * https://www.icloud.com/shortcuts/f8a9449a869248fb98ef144657190728
 
@@ -113,8 +113,8 @@
 *https://www.icloud.com/shortcuts/beda7406ce4747d8a29679daf1d45180
 
 
-### 交通-Trafic
-### 娱乐-Entertainment
+### 🚗交通-Trafic
+### 🎩娱乐-Entertainment
 1. **心情电池**(Mood Battery) [source](https://www.reddit.com/comments/9vjal1/)：
 * https://www.icloud.com/shortcuts/837ecd69085347cd95ecb59723aaad3a
 
