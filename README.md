@@ -2,7 +2,7 @@
   <img src="./resources/AppleShortcut.png" width="225px"/>
 </p>
 
-| 捷径[捷径库----Shortcut Library] | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
+| 捷径[捷径库 --Shortcut Library] | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
 
 # Iphone 捷径库 -- Iphone Shortcut Library
