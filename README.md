@@ -72,10 +72,16 @@
 11. **二维码生成**(QR Everything) [source](https://www.reddit.com/r/shortcuts/comments/9nucwv/download_a_lot_of_shortcuts_here/)：
 * https://www.icloud.com/shortcuts/94aee79b225c461abbc081f315d85eb5
 
+12. **随机数产生器**(Random Number Generator) [source](https://www.reddit.com/r/shortcuts/comments/9nucwv/download_a_lot_of_shortcuts_here/)：
+* https://www.icloud.com/shortcuts/f4b271fba0cb490a81d5df54fa1d48db
+
 ### 交通-Trafic
 ### 娱乐-Entertainment
 1. **心情电池**(Mood Battery) [source](https://www.reddit.com/comments/9vjal1/)：
 * https://www.icloud.com/shortcuts/837ecd69085347cd95ecb59723aaad3a
+
+2. **听歌识曲**(Song Identifier) [source](https://www.reddit.com/r/shortcuts/comments/9nucwv/download_a_lot_of_shortcuts_here/)：
+*https://www.icloud.com/shortcuts/9ba0998d8bf4420296b94258ccb630cd
 
 ## 示例 -- Examples
 
