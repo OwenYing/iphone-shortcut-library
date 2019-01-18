@@ -29,6 +29,10 @@
 ### 工具-Tools
 1. **保存网站中的所有图片**(Save all images of a webpage) [source](https://www.reddit.com/comments/9sh2jt/)：
 * https://www.icloud.com/shortcuts/f8a9449a869248fb98ef144657190728
+
+2. **网页视频下载器**(Video Downloader) [source](https://www.reddit.com/comments/9i2517/)：
+* https://www.icloud.com/shortcuts/939a092d1d9e48e19cf84cd5f4479c1d
+
 ### 交通-Trafic
 ### 娱乐-Entertainment
 1. **心情电池**(Mood Battery) [source](https://www.reddit.com/comments/9vjal1/)：
