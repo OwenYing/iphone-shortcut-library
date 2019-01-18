@@ -31,7 +31,7 @@
 
 
 ### 学习-Study
-2. **Leetcode计时器**(Leetcode Timer) [source](https://owenying.github.io)：
+1. **Leetcode计时器**(Leetcode Timer) [source](https://owenying.github.io)：
 * https://www.icloud.com/shortcuts/b50099d358684f35a7c712b9669d8873
 
 ### 效率-Efficiency
