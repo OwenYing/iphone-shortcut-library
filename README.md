@@ -35,6 +35,21 @@
 4. **小费计算器**(Calculate Tip) [source](https://owenying.github.io)：
 * https://www.icloud.com/shortcuts/8e6fde6dba6e46d89195adff4251daf3
 
+5. **折扣计算器**(Discount) [source](https://www.reddit.com/r/shortcuts/comments/9mt64i/would_anyone_like_any_of_my_shortcuts/)：
+* https://www.icloud.com/shortcuts/604a92bad4494a699ae10e8ee09c6ee4
+
+6. **生存模式**(Survival Mode) [source](https://www.reddit.com/r/shortcuts/comments/9mt64i/would_anyone_like_any_of_my_shortcuts/)：
+* https://www.icloud.com/shortcuts/edce60f1e3b0484fb58d0f1a39ff228a
+
+7. **生成Wifi二维码**(WiFi QR Scanner) [source](https://www.reddit.com/r/shortcuts/comments/9mt64i/would_anyone_like_any_of_my_shortcuts/)：
+* https://www.icloud.com/shortcuts/61b7c5d600b240439b5ae7f56f3db1b2
+
+8. **刷牙计时器**(Brush Teeth Timer) [source](https://www.reddit.com/r/shortcuts/comments/9mt64i/would_anyone_like_any_of_my_shortcuts/)：
+* https://www.icloud.com/shortcuts/4f90f9f5961e4d7a9fcb948025f36baf
+
+9. **天数倒计时**(Days Until) [source](https://www.reddit.com/r/shortcuts/comments/9mt64i/would_anyone_like_any_of_my_shortcuts/)：
+* https://www.icloud.com/shortcuts/23f9dd645cba4f828c0df178f12a4af9
+
 ### 学习-Study
 1. **Leetcode计时器**(Leetcode Timer) [source](https://owenying.github.io)：
 * https://www.icloud.com/shortcuts/b50099d358684f35a7c712b9669d8873
@@ -84,6 +99,10 @@
 12. **随机数产生器**(Random Number Generator) [source](https://www.reddit.com/r/shortcuts/comments/9nucwv/download_a_lot_of_shortcuts_here/)：
 * https://www.icloud.com/shortcuts/f4b271fba0cb490a81d5df54fa1d48db
 
+13. **YouTube下载器**(YouTube Download) [source](https://www.reddit.com/r/shortcuts/comments/9hb7ey/heres_a_list_of_all_my_shortcuts_so_far_the_ones/)：
+*https://www.icloud.com/shortcuts/beda7406ce4747d8a29679daf1d45180
+
+
 ### 交通-Trafic
 ### 娱乐-Entertainment
 1. **心情电池**(Mood Battery) [source](https://www.reddit.com/comments/9vjal1/)：
@@ -94,6 +113,9 @@
 
 3. **决定生成器**(Decision) [source](https://www.reddit.com/r/shortcuts/comments/9hb7ey/heres_a_list_of_all_my_shortcuts_so_far_the_ones/)：
 *https://www.icloud.com/shortcuts/6a2690bbaf6f4d478524d2556523054b
+
+4. **掷硬币**(Flip A Coin) [source](https://www.reddit.com/r/shortcuts/comments/9hb7ey/heres_a_list_of_all_my_shortcuts_so_far_the_ones/)：
+*https://www.icloud.com/shortcuts/0ec8fb4002294b159c7a4505b58d53be
 
 ## 示例 -- Examples
 
