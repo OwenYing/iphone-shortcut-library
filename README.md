@@ -32,12 +32,21 @@
 3. **生日提醒**(Birthdays) [source](https://www.reddit.com/r/shortcuts/comments/9nucwv/download_a_lot_of_shortcuts_here/)：
 * https://www.icloud.com/shortcuts/47b24ac86c5a48249990e298436a5ec4
 
+4. **小费计算器**(Calculate Tip) [source](https://owenying.github.io)：
+* https://www.icloud.com/shortcuts/8e6fde6dba6e46d89195adff4251daf3
+
 ### 学习-Study
 1. **Leetcode计时器**(Leetcode Timer) [source](https://owenying.github.io)：
 * https://www.icloud.com/shortcuts/b50099d358684f35a7c712b9669d8873
 
 ### 效率-Efficiency
+1. **Wifi蓝牙开关**(Wi-Fi and Bluetooth Toggle) [source](https://www.reddit.com/r/shortcuts/comments/9hb7ey/heres_a_list_of_all_my_shortcuts_so_far_the_ones/)：
+* https://www.icloud.com/shortcuts/6112b7815fad40288342fdc4a30e9bc3
+
 ### 健身-Health
+1. **每日健身报告生成器**(Activity Report) [source](https://www.reddit.com/r/shortcuts/comments/9hb7ey/heres_a_list_of_all_my_shortcuts_so_far_the_ones/)：
+*https://www.icloud.com/shortcuts/5437ade3610049dbb4ed7c284ce04148
+
 ### 工具-Tools
 1. **保存网站中的所有图片**(Save all images of a webpage) [source](https://www.reddit.com/comments/9sh2jt/)：
 * https://www.icloud.com/shortcuts/f8a9449a869248fb98ef144657190728
@@ -82,6 +91,9 @@
 
 2. **听歌识曲**(Song Identifier) [source](https://www.reddit.com/r/shortcuts/comments/9nucwv/download_a_lot_of_shortcuts_here/)：
 *https://www.icloud.com/shortcuts/9ba0998d8bf4420296b94258ccb630cd
+
+3. **决定生成器**(Decision) [source](https://www.reddit.com/r/shortcuts/comments/9hb7ey/heres_a_list_of_all_my_shortcuts_so_far_the_ones/)：
+*https://www.icloud.com/shortcuts/6a2690bbaf6f4d478524d2556523054b
 
 ## 示例 -- Examples
 
