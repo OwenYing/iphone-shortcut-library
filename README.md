@@ -119,13 +119,13 @@
 * https://www.icloud.com/shortcuts/837ecd69085347cd95ecb59723aaad3a
 
 2. **听歌识曲**(Song Identifier) [source](https://www.reddit.com/r/shortcuts/comments/9nucwv/download_a_lot_of_shortcuts_here/)：
-*https://www.icloud.com/shortcuts/9ba0998d8bf4420296b94258ccb630cd
+* https://www.icloud.com/shortcuts/9ba0998d8bf4420296b94258ccb630cd
 
 3. **决定生成器**(Decision) [source](https://www.reddit.com/r/shortcuts/comments/9hb7ey/heres_a_list_of_all_my_shortcuts_so_far_the_ones/)：
-*https://www.icloud.com/shortcuts/6a2690bbaf6f4d478524d2556523054b
+* https://www.icloud.com/shortcuts/6a2690bbaf6f4d478524d2556523054b
 
 4. **掷硬币**(Flip A Coin) [source](https://www.reddit.com/r/shortcuts/comments/9hb7ey/heres_a_list_of_all_my_shortcuts_so_far_the_ones/)：
-*https://www.icloud.com/shortcuts/0ec8fb4002294b159c7a4505b58d53be
+* https://www.icloud.com/shortcuts/0ec8fb4002294b159c7a4505b58d53be
 
 ## 示例 -- Examples
 
