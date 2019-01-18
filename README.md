@@ -27,6 +27,8 @@
 ### 效率-Efficiency
 ### 健身-Health
 ### 工具-Tools
+1. **保存网站中的所有图片**(Save all images of a webpage) [source](https://www.reddit.com/comments/9sh2jt/)：
+* https://www.icloud.com/shortcuts/f8a9449a869248fb98ef144657190728
 ### 交通-Trafic
 ### 娱乐-Entertainment
 
