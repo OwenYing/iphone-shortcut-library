@@ -12,6 +12,8 @@
 
 
 ## 如何获得捷径 -- Installation
+系统需要是 IOS12 及以上
+
 1. 在Apple应用商店下载 ```捷径``` APP。(Download ```shortcut``` app in Apple Store)
 
 2. 复制捷径库中的捷径链接。 (Copy the shortcut's link in this Library)
@@ -19,6 +21,14 @@
 3. 在Iphone的Safari中打开。 (Open the link with ```safari``` on Iphone)
 
 4. 点击```获取捷径```。 (Get the shortcut.)
+
+或
+
+1. 在Apple应用商店下载 ```捷径``` APP。(Download ```shortcut``` app in Apple Store)
+
+2. 用手机safari浏览本网页 (Open this site with Iphone safari)
+
+3. 点击捷径链接。 (Click on the shortcuts' links)
 
 
 ## 捷径库 -- Shortcut Library
