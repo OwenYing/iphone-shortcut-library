@@ -31,6 +31,8 @@
 * https://www.icloud.com/shortcuts/f8a9449a869248fb98ef144657190728
 ### 交通-Trafic
 ### 娱乐-Entertainment
+1. **心情电池**(Mood Battery) [source](https://www.reddit.com/comments/9vjal1/)：
+* https://www.icloud.com/shortcuts/837ecd69085347cd95ecb59723aaad3a
 
 ## 示例 -- Examples
 
