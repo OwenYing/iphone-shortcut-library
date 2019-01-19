@@ -148,6 +148,9 @@
 5. **图像识别**(Image Recognition Shortcut) [source](https://www.reddit.com/r/shortcuts/comments/9kuw2a/image_recognition_shortcut/)：
 * https://www.icloud.com/shortcuts/6db99bb72c4246bcaa01f3a0b14af26a
 
+6. **摩斯电码转换器**(Text to Morse Code) [source](https://www.reddit.com/r/shortcuts/comments/9hj2ol/morse_code_shortcut_that_translates_text_into/)：
+* https://www.icloud.com/shortcuts/d406a7131a0d4939887120eb00b061f5
+
 ## 示例 -- Examples
 **用iphone手机的safari浏览器打开 -- Open with Iphone Safari**
 
