@@ -60,6 +60,9 @@
 9. **天数倒计时**(Days Until) [source](https://www.reddit.com/r/shortcuts/comments/9mt64i/would_anyone_like_any_of_my_shortcuts/)：
 * https://www.icloud.com/shortcuts/23f9dd645cba4f828c0df178f12a4af9
 
+10. **拍照搜索amazon**(Search on Amazon Shortcut with a photo) [source](https://www.reddit.com/r/shortcuts/comments/9jfik9/search_on_amazon_shortcut/)：
+* https://www.icloud.com/shortcuts/09002baecdd945be8fec2d30aad77531
+
 ### 📖学习-Study
 1. **Leetcode计时器**(Leetcode Timer) [source](https://owenying.github.io)：
 * https://www.icloud.com/shortcuts/b50099d358684f35a7c712b9669d8873
@@ -110,7 +113,16 @@
 * https://www.icloud.com/shortcuts/f4b271fba0cb490a81d5df54fa1d48db
 
 13. **YouTube下载器**(YouTube Download) [source](https://www.reddit.com/r/shortcuts/comments/9hb7ey/heres_a_list_of_all_my_shortcuts_so_far_the_ones/)：
-*https://www.icloud.com/shortcuts/beda7406ce4747d8a29679daf1d45180
+* https://www.icloud.com/shortcuts/beda7406ce4747d8a29679daf1d45180
+
+14. **图片上方添加文字**(Put text above a picture to make memes) [source](https://www.reddit.com/r/shortcuts/comments/9o3jnz/put_text_above_a_picture_to_make_memes/)：
+* https://www.icloud.com/shortcuts/354fd32377c747a6953c4338f0687108
+
+15. **图片上添加缩略图**(Add thumbnail map to photo) [source](https://www.reddit.com/r/shortcuts/comments/9qyh6y/add_thumbnail_map_to_photo/)：
+* https://www.icloud.com/shortcuts/6cc4443c77cd422fbebc136178b9e730
+
+16. **网页内容修改器**(Edit Any Website on the Fly!) [source](https://www.reddit.com/r/shortcuts/comments/9nrmob/edit_it_edit_any_website_on_the_fly/)：
+* https://www.icloud.com/shortcuts/a456810067274d809bf4528570bb7391
 
 
 ### 🚗交通-Trafic
