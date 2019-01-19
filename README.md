@@ -63,6 +63,9 @@
 10. **拍照搜索amazon**(Search on Amazon Shortcut with a photo) [source](https://www.reddit.com/r/shortcuts/comments/9jfik9/search_on_amazon_shortcut/)：
 * https://www.icloud.com/shortcuts/09002baecdd945be8fec2d30aad77531
 
+11. **任意网站开启夜间模式**(DarkMode works on every website) [source](https://www.reddit.com/r/shortcuts/comments/9ngo0l/darkmode_that_works_on_nearly_every_website_even/)：
+* https://www.icloud.com/shortcuts/dc2d555f87764d79a87f34667cb6a2c5
+
 ### 📖学习-Study
 1. **Leetcode计时器**(Leetcode Timer) [source](https://owenying.github.io)：
 * https://www.icloud.com/shortcuts/b50099d358684f35a7c712b9669d8873
@@ -123,6 +126,9 @@
 
 16. **网页内容修改器**(Edit Any Website on the Fly!) [source](https://www.reddit.com/r/shortcuts/comments/9nrmob/edit_it_edit_any_website_on_the_fly/)：
 * https://www.icloud.com/shortcuts/a456810067274d809bf4528570bb7391
+
+17. **图片背景去除器**(Remove image background) [source](https://www.reddit.com/r/shortcuts/comments/a7detz/remove_image_background_with_removebg/)：
+* https://www.icloud.com/shortcuts/4b57b446afe4407e8a0d45a215a8f3f5
 
 
 ### 🚗交通-Trafic
