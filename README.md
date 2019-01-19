@@ -145,6 +145,9 @@
 4. **掷硬币**(Flip A Coin) [source](https://www.reddit.com/r/shortcuts/comments/9hb7ey/heres_a_list_of_all_my_shortcuts_so_far_the_ones/)：
 * https://www.icloud.com/shortcuts/0ec8fb4002294b159c7a4505b58d53be
 
+5. **图像识别**(Image Recognition Shortcut) [source](https://www.reddit.com/r/shortcuts/comments/9kuw2a/image_recognition_shortcut/)：
+* https://www.icloud.com/shortcuts/6db99bb72c4246bcaa01f3a0b14af26a
+
 ## 示例 -- Examples
 **用iphone手机的safari浏览器打开 -- Open with Iphone Safari**
 
