@@ -67,6 +67,12 @@
 12. **App Store换区**(App Store change region) [source](https://zhuanlan.zhihu.com/p/45785789)：
 * https://www.icloud.com/shortcuts/483ef5090b344985a03ca8846d37ad60
 
+13. **Wifi 二维码分享**(Share Wifi via QR) [source](https://shortcutsgallery.com/shortcuts/)：
+* https://www.icloud.com/shortcuts/e085f9472e754b0da253050fa101dfff
+
+14. **戒烟**(Stop Smoking) [source](https://shortcutsgallery.com/shortcuts/)：
+* https://shortcutsgallery.com/shortcuts/stop-smoking/
+
 ### 📖学习-Study
 1. **Leetcode计时器**(Leetcode Timer) [source](https://owenying.github.io)：
 * https://www.icloud.com/shortcuts/b50099d358684f35a7c712b9669d8873
