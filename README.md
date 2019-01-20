@@ -66,6 +66,9 @@
 11. **任意网站开启夜间模式**(DarkMode works on every website) [source](https://www.reddit.com/r/shortcuts/comments/9ngo0l/darkmode_that_works_on_nearly_every_website_even/)：
 * https://www.icloud.com/shortcuts/dc2d555f87764d79a87f34667cb6a2c5
 
+12. **App Store换区**(App Store change region) [source](https://zhuanlan.zhihu.com/p/45785789)：
+* https://www.icloud.com/shortcuts/483ef5090b344985a03ca8846d37ad60
+
 ### 📖学习-Study
 1. **Leetcode计时器**(Leetcode Timer) [source](https://owenying.github.io)：
 * https://www.icloud.com/shortcuts/b50099d358684f35a7c712b9669d8873
@@ -130,6 +133,9 @@
 17. **图片背景去除器**(Remove image background) [source](https://www.reddit.com/r/shortcuts/comments/a7detz/remove_image_background_with_removebg/)：
 * https://www.icloud.com/shortcuts/4b57b446afe4407e8a0d45a215a8f3f5
 
+18. **清理屏幕快照**(Clean Screen Shots) [source](https://zhuanlan.zhihu.com/p/45785789)：
+* https://www.icloud.com/shortcuts/d3a5b6207c964e35abee233ecb35639c
+
 
 ### 🚗交通-Trafic
 ### 🎩娱乐-Entertainment
@@ -150,6 +156,12 @@
 
 6. **摩斯电码转换器**(Text to Morse Code) [source](https://www.reddit.com/r/shortcuts/comments/9hj2ol/morse_code_shortcut_that_translates_text_into/)：
 * https://www.icloud.com/shortcuts/d406a7131a0d4939887120eb00b061f5
+
+7. **微博热搜榜**(Weibo Popular Search) [source](https://zhuanlan.zhihu.com/p/45785789)：
+* https://www.icloud.com/shortcuts/88d7cc35c54243cd829bcf933dad84a8
+
+8. **微博热搜榜**(Weibo Popular Search) [source](https://zhuanlan.zhihu.com/p/45785789)：
+* https://www.icloud.com/shortcuts/88d7cc35c54243cd829bcf933dad84a8
 
 ## 示例 -- Examples
 **用iphone手机的safari浏览器打开 -- Open with Iphone Safari**
