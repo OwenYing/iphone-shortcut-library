@@ -169,6 +169,9 @@
 8. **微博热搜榜**(Weibo Popular Search) [source](https://zhuanlan.zhihu.com/p/45785789)：
 * https://www.icloud.com/shortcuts/88d7cc35c54243cd829bcf933dad84a8
 
+9. **文字加土豆**(Stupid Potato Adder) [source](https://www.reddit.com/r/shortcuts/comments/any8mb/text_clappifier/)：
+* https://www.icloud.com/shortcuts/5582e9baef724a94b205a48c2cbedb22
+
 ## 示例 -- Examples
 **用iphone手机的safari浏览器打开 -- Open with Iphone Safari**
 
