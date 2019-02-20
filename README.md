@@ -182,6 +182,11 @@
 <img src="./resources/desktop_example.gif" />
 
 ## 如何贡献本仓库 -- Contributing
+Easiest Way: 
+```java
+Click on ```Issue``` -->  ```New Issue``` --> ```Get Started``` --> Fill the Template below --> Ready to Launch!!
+```
+
 非常欢迎大家分享自己的```捷径```，可将```分享链接+作者```发送到邮箱```ytc@vt.edu```， 或者```Fork```本仓库。
 
 We are welcome to any kind of shortcuts you want to share.  Please send your ```sharelink+author``` to ```ytc@vt.edu```, or
