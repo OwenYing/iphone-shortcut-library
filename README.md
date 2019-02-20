@@ -140,6 +140,8 @@
 18. **清理屏幕快照**(Clean Screen Shots) [source](https://zhuanlan.zhihu.com/p/45785789)：
 * https://www.icloud.com/shortcuts/d3a5b6207c964e35abee233ecb35639c
 
+19. **自定义捷径添加分享图标**(Icon your shortcut) [source](https://www.reddit.com/r/shortcuts/comments/aplqkk/mediakit_showcase_your_shortcuts_like_a_pro/)：
+* https://www.icloud.com/shortcuts/12fa5d6a86974711b3a371c7e398717d
 
 ### 🚗交通-Trafic
 ### 🎩娱乐-Entertainment
