@@ -175,6 +175,9 @@
 9. **文字加土豆**(Stupid Potato Adder) [source](https://www.reddit.com/r/shortcuts/comments/any8mb/text_clappifier/)：
 * https://www.icloud.com/shortcuts/5582e9baef724a94b205a48c2cbedb22
 
+10. **网易云音乐听音识曲**(Wangyi Cloud Song Identifier) [source](https://www.douban.com/group/topic/124691569/)：
+* https://www.icloud.com/shortcuts/287ab4e34a5a4df78b19a268562cdb6d
+
 ## 示例 -- Examples
 **用iphone手机的safari浏览器打开 -- Open with Iphone Safari**
 
