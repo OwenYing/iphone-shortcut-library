@@ -73,6 +73,9 @@
 14. **戒烟**(Stop Smoking) [source](https://shortcutsgallery.com/shortcuts/)：
 * https://shortcutsgallery.com/shortcuts/stop-smoking/
 
+15. **淘宝搜索**(Search on Taobao) [source](https://www.douban.com/group/topic/124691569/)：
+* https://www.icloud.com/shortcuts/64363e7312274ade87f20ae1a781e909
+
 ### 📖学习-Study
 1. **Leetcode计时器**(Leetcode Timer) [source](https://owenying.github.io)：
 * https://www.icloud.com/shortcuts/b50099d358684f35a7c712b9669d8873
