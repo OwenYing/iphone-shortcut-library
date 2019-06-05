@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./resources/AppleShortcut.png" width="225px"/>
 </p>
+----------------------------------------------image from Apple Shortcut--------------------------------------------
 
 
 # Iphone 捷径库 -- Iphone Shortcut Library. 🔥持续更新中🔥
